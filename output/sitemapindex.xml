@@ -6,34 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/authors/joe-barlow.xml</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://example.com/galleries/demo/rss.xml</loc>
   <lastmod>2018-06-18T21:11:00Z</lastmod>
  </sitemap>
@@ -47,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2018-06-18T21:11:00Z</lastmod>
+  <lastmod>2018-06-18T22:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>

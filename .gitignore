@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
+cache
+.doit.db
+__pycache__
+output

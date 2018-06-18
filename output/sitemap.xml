@@ -10,10 +10,6 @@
   <lastmod>2018-06-18T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2012/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/2018/</loc>
   <lastmod>2018-06-18T17:43:00Z</lastmod>
  </url>
@@ -22,40 +18,8 @@
   <lastmod>2018-06-18T21:11:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/joe-barlow/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/roberto-alsina/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/categories/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/blog/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/demo/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/nikola/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/python/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
+  <lastmod>2018-06-18T22:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/galleries/</loc>
@@ -140,25 +104,5 @@
  <url>
   <loc>https://example.com/posts/netlify/</loc>
   <lastmod>2018-06-18T21:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/post-4/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/test-post-3/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/test-post-round-2/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/test-post/</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
-  <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
 </urlset>
