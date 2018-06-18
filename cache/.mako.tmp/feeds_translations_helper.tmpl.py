@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1529360068.2930439
+_modified_time = 1529360431.880212
 _enable_loop = True
 _template_filename = '/Users/joebarlow/nikola/lib/python3.6/site-packages/nikola/data/themes/base/templates/feeds_translations_helper.tmpl'
 _template_uri = 'feeds_translations_helper.tmpl'
@@ -30,15 +30,15 @@ def render_body(context,**pageargs):
 def render_head(context,classification=None):
     __M_caller = context.caller_stack._push_frame()
     try:
-        generate_rss = context.get('generate_rss', UNDEFINED)
-        generate_atom = context.get('generate_atom', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
         has_other_languages = context.get('has_other_languages', UNDEFINED)
-        len = context.get('len', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
+        generate_atom = context.get('generate_atom', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
-        other_languages = context.get('other_languages', UNDEFINED)
+        generate_rss = context.get('generate_rss', UNDEFINED)
         rss_link = context.get('rss_link', UNDEFINED)
+        other_languages = context.get('other_languages', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         kind = context.get('kind', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
@@ -124,13 +124,13 @@ def render_head(context,classification=None):
 def render_feed_link(context,classification):
     __M_caller = context.caller_stack._push_frame()
     try:
-        generate_rss = context.get('generate_rss', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         sorted = context.get('sorted', UNDEFINED)
         generate_atom = context.get('generate_atom', UNDEFINED)
-        len = context.get('len', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
+        _link = context.get('_link', UNDEFINED)
+        generate_rss = context.get('generate_rss', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         kind = context.get('kind', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
@@ -184,9 +184,9 @@ def render_translation_link(context):
     __M_caller = context.caller_stack._push_frame()
     try:
         has_other_languages = context.get('has_other_languages', UNDEFINED)
-        other_languages = context.get('other_languages', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
+        _link = context.get('_link', UNDEFINED)
+        other_languages = context.get('other_languages', UNDEFINED)
         kind = context.get('kind', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
