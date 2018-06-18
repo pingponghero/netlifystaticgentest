@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
+  <lastmod>2018-06-18T21:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2018-06-18T17:43:00Z</lastmod>
+  <lastmod>2018-06-18T21:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/pages/about-nikola/</loc>
@@ -136,6 +136,10 @@
  <url>
   <loc>https://example.com/pages/theming/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/netlify/</loc>
+  <lastmod>2018-06-18T21:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/posts/post-4/</loc>
