@@ -26,7 +26,7 @@ SITE_URL = "https://example.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "joebarlow222@gmail.com"
-BLOG_DESCRIPTION = "This is an excercise."  # (translatable)
+BLOG_DESCRIPTION = "This is a drill."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -136,8 +136,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/categories/", "Tags")
     ),
 }
 
