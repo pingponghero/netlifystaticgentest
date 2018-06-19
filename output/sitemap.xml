@@ -6,107 +6,107 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/</loc>
   <lastmod>2018-06-19T12:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2018/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/2018/</loc>
   <lastmod>2018-06-18T17:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-06-19T12:50:00Z</lastmod>
+  <loc>https://joe-barlow-demo.netlify.com/archive.html</loc>
+  <lastmod>2018-06-19T16:14:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/categories/</loc>
   <lastmod>2018-06-19T15:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_win/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/categories/cat_win/</loc>
   <lastmod>2018-06-19T15:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/galleries/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/demo/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/galleries/demo/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/listings/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/listings/__pycache__/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2018-06-19T12:50:00Z</lastmod>
+  <loc>https://joe-barlow-demo.netlify.com/listings/hello.py.html</loc>
+  <lastmod>2018-06-19T16:14:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/about-nikola/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/about-nikola/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/bootstrap-demo/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/bootstrap-demo/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/charts/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/charts/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/creating-a-theme/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/creating-a-theme/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/extending/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/extending/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/handbook/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/handbook/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/internals/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/internals/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/listings-demo/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/listings-demo/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/path-handlers/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/path-handlers/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickref/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/quickref/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickstart/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/quickstart/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/slides-demo/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/slides-demo/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/social_buttons/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/social_buttons/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/theming/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/pages/theming/</loc>
   <lastmod>2018-06-18T17:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/netlify/</loc>
+  <loc>https://joe-barlow-demo.netlify.com/posts/netlify/</loc>
   <lastmod>2018-06-18T21:11:00Z</lastmod>
  </url>
 </urlset>
