@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Netlify Exercise</title><link>https://example.com/</link><description>This is a drill.</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:joebarlow222@gmail.com"&gt;Joe Barlow&lt;/a&gt; </copyright><lastBuildDate>Tue, 19 Jun 2018 12:50:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Netlify</title><link>https://example.com/posts/netlify/</link><dc:creator>Joe Barlow</dc:creator><description>&lt;p&gt;Answering questions here, ta-da!&lt;/p&gt;</description><guid>https://example.com/posts/netlify/</guid><pubDate>Mon, 18 Jun 2018 21:10:16 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Netlify Exercise</title><link>https://example.com/</link><description>This is a drill.</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:joebarlow222@gmail.com"&gt;Joe Barlow&lt;/a&gt; </copyright><lastBuildDate>Tue, 19 Jun 2018 16:11:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Netlify Exercise</title><link>https://example.com/posts/netlify/</link><dc:creator>Joe Barlow</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Rank your 5 favorite, and 5 least favorite, activities from this list: Here are things a support engineer at Netlify might do in no particular order. List 5 things that are your most favorite to do and 5 things that are least favorite.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Favorites:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Debug a customer's build using a programming language and framework that you've never seen before (this is right up there with deciphering the language of a hitherto undiscovered tribe in the Amazon)&lt;/li&gt;
+&lt;li&gt;Spot trends across many cases to improve Netlify's product and service (high-level analysis, yes!)&lt;/li&gt;
+&lt;li&gt;Help train and onboard new support teammates&lt;/li&gt;
+&lt;li&gt;Work with the development team to help design a new feature based on feedback from customers&lt;/li&gt;
+&lt;li&gt;Deliver a talk to many people you don't know at a conference or meetup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Not favorites (nothing I’m morally opposed to, I’m just not itching to volunteer):&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Respond to Netlify customers on Twitter&lt;/li&gt;
+&lt;li&gt;Dig through server logs to troubleshoot a customer's website behavior&lt;/li&gt;
+&lt;li&gt;Manage a Support team&lt;/li&gt;
+&lt;li&gt;Create video tutorials to help teach users a specific feature or use case&lt;/li&gt;
+&lt;li&gt;Receive occasional phone calls requesting support from our highest-value customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;What is your favorite thing about providing technical support?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+I love when support ends with a handshake of mutual benefit. Of course we all want that “aha!” moment of finding the bug and fixing the thing, but the best conversations are an exchange of knowledge. I like learning new ways of doing things, and seeing how people run their business and create inspiring projects. I imagine it’s kind of like being an auto mechanic; most of your conversation is about the maintenance or broken part, but you get to admire the rest of the car while you’re at it, and maybe get a snapshot of the person’s life and personality too.&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+I was a little overwhelmed initially at the number of site generation tools to pick from, but of course if you have a particular filter in mind, it pares down pretty quickly. At any rate the volume is impressive. I also appreciated the dead-simple step by step instructions for installation and the thorough Getting Started guide. And it's &lt;em&gt;fast!&lt;/em&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I picked Nikola more or less at random from the middle of the pile. I didn’t want to use the most popular or least popular tool, and wanted to see the blog format.&lt;/p&gt;
+&lt;p&gt;I experienced a few configuration errors along the way. I referred to GitHub’s docs to generate a new SSH key so I could deploy to my repository, and then used Netlify’s logs to rectify an incorrect assumption in my Deploy settings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+I think the documentation for JIRA is generally very well done. For example, &lt;a class="reference external" href="https://confluence.atlassian.com/jirasoftwarecloud/processing-issues-with-smart-commits-788960027.html"&gt;this article&lt;/a&gt; starts with brief high-level context, then goes into the details, and then provides specific examples for different use cases, including some edge cases. It’s concise, has exceptionally clean formatting, and includes relevant hyperlinks. I like how the navigation remains visible at the top, and there are clear paths to provide feedback or ask for more help.&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Why do you think SSL/HTTPS is important?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+I think it’s best to operate under the assumption that any unprotected resource online can and will be exploited. This is crucial for the delivery of sensitive information of course, but also for “mundane” data, which can still be used in aggregate to profile and identify users.&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+I think DNS configuration can be challenging because (1) it’s not something most end-users deal with on a regular basis, if at all and (2) the details are much more opaque than “match the domain name to the server.” The horde of acronyms is intimidating, it’s easy to lose track of records, you don’t know that updating one protocol might mean you have to update others, and so on. Furthermore, the introduction for many people into DNS config is an error message, and that’s never an encouraging place to start.&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hey John, thanks for reaching out! I’m sorry to hear you’re having trouble. Let’s see what we can do to get you up and running! First, if you haven’t already, I would check out our troubleshooting guide right here: &lt;a class="reference external" href="https://www.netlify.com/docs/build-gotchas/"&gt;https://www.netlify.com/docs/build-gotchas/&lt;/a&gt;. That addresses some of the more common build errors and settings to check. It may be an easy tweak.&lt;/p&gt;
+&lt;p&gt;If that doesn’t seem to cover it, I’d be happy to take a look at your logs. On the Deploys tab in your Netlify account, just click into the log for your most recent attempt, hit Copy to Clipboard on the right, and drop that text into your reply. We’ll take it from there!&lt;/p&gt;
+&lt;p&gt;Cheers,
+Joe&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid>https://example.com/posts/netlify/</guid><pubDate>Mon, 18 Jun 2018 21:10:16 GMT</pubDate></item></channel></rss>
